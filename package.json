@@ -1,7 +1,7 @@
 {
-  "name": "homebridge-petkit-platform",
-  "version": "1.0.7",
-  "description": "Homebridge plugin for Petkit",
+  "name": "homebridge-petkit-platform-cont",
+  "version": "1.0.8.SS",
+  "description": "Homebridge plugin for Petkit TQ Continued Upgraded",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,9 +12,9 @@
     "homebridge-plugin",
     "petkit"
   ],
-  "author": "jubepue@gmail.com",
+  "author": "qinyujue@gmail.com",
   "license": "MIT",
-  "homepage": "https://github.com/jubepue/homebridge-petkit",
+  "homepage": "https://github.com/timmyraynor/homebridge-petkit-platform-cont",
   "engines": {
     "node": ">=14.0.0",
     "homebridge": ">=0.2.0"
